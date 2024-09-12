@@ -12,3 +12,9 @@ C++的框架
   <li> anything</li>
 </ul>
 類似智慧型冰箱，帶有觸控螢幕顯示器的那種！就可能有Qt( σ̴̶̷̤ .̫ σ̴̶̷̤ )♡
+
+<h3>新增專案</h3>
+
+![image](https://github.com/yuchi0307/Qt-6-note/blob/main/01.png)
+
+CMake 會告訴編譯器該如何建立 Qt，qmake是比較舊的版本。
